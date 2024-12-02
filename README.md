@@ -35,8 +35,8 @@
 <p>Abaixo estão algumas imagens do Sistema de Gestão de Vendas de Carros:</p>
 
 
-<img src="https://imgur.com/a/oEMmZAl" alt="Imagem 1" width="500px">
-<img src="https://imgur.com/HCL99pF" alt="Imagem 2" width="500px">
+<img src="https://i.imgur.com/oEMmZAl.jpg" alt="Imagem 1" width="500px">
+<img src="https://i.imgur.com/HCL99pF.jpg" alt="Imagem 2" width="500px">
 
 <h2>Cadastro de Marcas</h2>
 <p>Para cadastrar uma nova marca de carro no sistema, acesse o painel de administração do Django. Siga os passos abaixo:</p>
