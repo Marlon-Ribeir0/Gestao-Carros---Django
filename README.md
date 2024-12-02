@@ -35,8 +35,8 @@
 <p>Abaixo estão algumas imagens do Sistema de Gestão de Vendas de Carros:</p>
 
 
-<img src="https://github.com/Marlon-Ribeir0/Gestao-Carros-Django/raw/master/image_projeto/Projeto%20Login.png" alt="Imagem 1" width="500px">
-<img src="https://i.imgur.com/HCL99pF.jpg" alt="Imagem 2" width="500px">
+<img src="https://github.com/Marlon-Ribeir0/Gestao-Carros-Django/blob/master/image_projeto/Projeto.png" alt="Imagem 1" width="500px">
+<img src="https://github.com/Marlon-Ribeir0/Gestao-Carros-Django/blob/master/image_projeto/detalhe.png" alt="Imagem 2" width="500px">
 
 <h2>Cadastro de Marcas</h2>
 <p>Para cadastrar uma nova marca de carro no sistema, acesse o painel de administração do Django. Siga os passos abaixo:</p>
@@ -48,7 +48,7 @@
 </ol>
 
 <p>Exemplo de como o formulário de cadastro de marcas aparece no painel de administração:</p>
-<img src="caminho/para/imagem-marcas.png" alt="Cadastro de Marcas" width="500px">
+<img src="https://github.com/Marlon-Ribeir0/Gestao-Carros-Django/blob/master/image_projeto/admin%20-%20marca.png" alt="Cadastro de Marcas" width="500px">
 
 <h2>Cadastro de Usuários</h2>
 <p>Para cadastrar novos usuários (clientes ou administradores), siga os passos abaixo:</p>
@@ -61,7 +61,7 @@
 </ol>
 
 <p>Exemplo de como o formulário de cadastro de usuários aparece no painel de administração:</p>
-<img src="caminho/para/imagem-usuarios.png" alt="Cadastro de Usuários" width="500px">
+<img src="https://github.com/Marlon-Ribeir0/Gestao-Carros-Django/blob/master/image_projeto/Projeto%20cadastro%20usuario.png" alt="Cadastro de Usuários" width="500px">
 
 <h2>Cadastro de Carros</h2>
 <p>Para cadastrar um carro no sistema, siga os seguintes passos:</p>
@@ -73,9 +73,9 @@
 </ol>
 
 <p>Exemplo de como o formulário de cadastro de carros aparece no painel de administração:</p>
-<img src="caminho/para/imagem-cadastro-carro.png" alt="Cadastro de Carros" width="500px">
+<img src="https://github.com/Marlon-Ribeir0/Gestao-Carros-Django/blob/master/image_projeto/cadrastro.png" alt="Cadastro de Carros" width="500px">
 
 <h2>Detalhes do Carro</h2>
 <p>Após cadastrar um carro, você pode visualizar e editar seus detalhes. Abaixo está um exemplo de como os detalhes de um carro aparecem no painel de administração:</p>
-<img src="caminho/para/imagem-detalhes-carro.png" alt="Detalhes do Carro" width="500px">
+<img src="https://github.com/Marlon-Ribeir0/Gestao-Carros-Django/blob/master/image_projeto/detalhe.png" alt="Detalhes do Carro" width="500px">
 
