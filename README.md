@@ -34,8 +34,8 @@
 <h2>Imagens do Projeto</h2>
 <p>Abaixo estão algumas imagens do Sistema de Gestão de Vendas de Carros:</p>
 
-<!-- Exemplo de como adicionar imagens -->
-<img src="caminho/para/imagem1.png" alt="Imagem 1" width="500px">
+
+<img src="C:\Users\MARLON\Desktop\fotos_projetos carro django" alt="Imagem 1" width="500px">
 <img src="caminho/para/imagem2.png" alt="Imagem 2" width="500px">
 
 <h2>Cadastro de Marcas</h2>
