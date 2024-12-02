@@ -35,7 +35,7 @@
 <p>Abaixo estão algumas imagens do Sistema de Gestão de Vendas de Carros:</p>
 
 
-<img src="https://github.com/Marlon-Ribeir0/Gestao-Carros-Django/blob/master/image_projeto/Projeto%20Login.pngg" alt="Imagem 1" width="500px">
+<img src="https://github.com/Marlon-Ribeir0/Gestao-Carros-Django/raw/master/image_projeto/Projeto%20Login.png" alt="Imagem 1" width="500px">
 <img src="https://i.imgur.com/HCL99pF.jpg" alt="Imagem 2" width="500px">
 
 <h2>Cadastro de Marcas</h2>
