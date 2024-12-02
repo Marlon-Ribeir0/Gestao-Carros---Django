@@ -1,6 +1,6 @@
-<h1 align="center">Sistema de Gestão de Vendas de Carros (SGVC)</h1>
+<h1 align="center">Sistema de Gestão de Vendas de Carros </h1>
 
-<p>Bem-vindo ao Sistema de Gestão de Vendas de Carros (SGVC), um projeto desenvolvido em Django e Bootstrap 5 para facilitar o gerenciamento de vendas de carros. Este README fornece informações essenciais sobre como configurar e executar o projeto em seu ambiente local.</p>
+<p>Bem-vindo ao Sistema de Gestão de Vendas de Carros , um projeto desenvolvido em Django e Bootstrap 5 para facilitar o gerenciamento de vendas de carros. Este README fornece informações essenciais sobre como configurar e executar o projeto em seu ambiente local.</p>
 
 <h2>Requisitos</h2>
 <p>Certifique-se de que você tenha os seguintes requisitos instalados em seu sistema:</p>
