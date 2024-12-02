@@ -31,12 +31,51 @@
     <li><strong>Interface responsiva</strong>, utilizando o Bootstrap 5 para garantir uma experiência de usuário otimizada tanto em dispositivos móveis quanto desktop.</li>
 </ul>
 
-<h2>Contribuindo</h2>
-<p>Se você deseja contribuir com o projeto, siga os seguintes passos:</p>
-<ul>
-    <li>Fork este repositório.</li>
-    <li>Crie uma branch para suas modificações: <code>git checkout -b minha-modificacao</code></li>
-    <li>Faça suas alterações e commit: <code>git commit -am 'Adicionando uma nova funcionalidade'</code></li>
-    <li>Envia para o repositório original: <code>git push origin minha-modificacao</code></li>
-    <li>Abra um pull request.</li>
-</ul>
+<h2>Imagens do Projeto</h2>
+<p>Abaixo estão algumas imagens do Sistema de Gestão de Vendas de Carros:</p>
+
+<!-- Exemplo de como adicionar imagens -->
+<img src="caminho/para/imagem1.png" alt="Imagem 1" width="500px">
+<img src="caminho/para/imagem2.png" alt="Imagem 2" width="500px">
+
+<h2>Cadastro de Marcas</h2>
+<p>Para cadastrar uma nova marca de carro no sistema, acesse o painel de administração do Django. Siga os passos abaixo:</p>
+
+<ol>
+    <li>Acesse o painel de administração em <a href="http://127.0.0.1:8000/admin" target="_blank">http://127.0.0.1:8000/admin</a> com o superusuário.</li>
+    <li>Na seção "Marcas de Carros", clique em "Adicionar marca".</li>
+    <li>Preencha o formulário com o nome e a descrição da marca e clique em "Salvar".</li>
+</ol>
+
+<p>Exemplo de como o formulário de cadastro de marcas aparece no painel de administração:</p>
+<img src="caminho/para/imagem-marcas.png" alt="Cadastro de Marcas" width="500px">
+
+<h2>Cadastro de Usuários</h2>
+<p>Para cadastrar novos usuários (clientes ou administradores), siga os passos abaixo:</p>
+
+<ol>
+    <li>Acesse a seção "Usuários" no painel de administração.</li>
+    <li>Clique em "Adicionar usuário".</li>
+    <li>Preencha o nome, email, senha e outros campos necessários e clique em "Salvar".</li>
+    <li>Após criar o usuário, você pode adicionar permissões de administrador ou associar o usuário a um grupo.</li>
+</ol>
+
+<p>Exemplo de como o formulário de cadastro de usuários aparece no painel de administração:</p>
+<img src="caminho/para/imagem-usuarios.png" alt="Cadastro de Usuários" width="500px">
+
+<h2>Cadastro de Carros</h2>
+<p>Para cadastrar um carro no sistema, siga os seguintes passos:</p>
+
+<ol>
+    <li>Acesse a seção "Carros" no painel de administração.</li>
+    <li>Clique em "Adicionar carro".</li>
+    <li>Preencha as informações do carro, como marca, modelo, ano, preço e descrição. Depois, clique em "Salvar".</li>
+</ol>
+
+<p>Exemplo de como o formulário de cadastro de carros aparece no painel de administração:</p>
+<img src="caminho/para/imagem-cadastro-carro.png" alt="Cadastro de Carros" width="500px">
+
+<h2>Detalhes do Carro</h2>
+<p>Após cadastrar um carro, você pode visualizar e editar seus detalhes. Abaixo está um exemplo de como os detalhes de um carro aparecem no painel de administração:</p>
+<img src="caminho/para/imagem-detalhes-carro.png" alt="Detalhes do Carro" width="500px">
+
